@@ -214,6 +214,7 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+frost_client_id.txt
 __marimo__/
 
 # Streamlit
